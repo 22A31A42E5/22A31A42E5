@@ -5,7 +5,7 @@
 ---
 
 ## 💻 Tech Stack
-- Languages: Python, JavaScript, PHP, C++
+- Languages: Python, C
 - Tools: Git, MySQL, VS Code, Flask, Streamlit, FastAPI
 - Interests: Web Development, AI/ML, Open Source, System Design
 
